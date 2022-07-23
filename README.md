@@ -1,5 +1,5 @@
 
-#### Contact me for permission to view my private projects.
+#### Contact me for permission to view my private repositories.
 
 - Interpreter Prototype
 - Functional Language Interpreter
