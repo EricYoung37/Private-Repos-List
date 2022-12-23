@@ -1,5 +1,5 @@
 
-#### Contact me for permission to view my private repositories.
+#### Private Repos:
 
 - Simple HDD IO Scheduler
 - MMU Prototype
