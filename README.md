@@ -1,17 +1,17 @@
 
-#### Private Repos:
+### Private Repos:
 
-### C++
+#### C++
 - Simple HDD IO Scheduler
 - MMU Prototype
 - Simple Process Scheduler
 - Linker Prototype
 
-### Python
+#### Python
 - Interpreter Prototype
 
-### Scheme 48
+#### Scheme 48
 - Functional Language Interpreter
 
-### Java
+#### Java
 - Pokémon GO Usage Analyzer
