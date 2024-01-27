@@ -1,17 +1,21 @@
 
-### Private Repos:
+# Private Repository
 
-#### C++
+## C++
 - Simple HDD IO Scheduler
 - MMU Prototype
 - Simple Process Scheduler
 - Linker Prototype
 
-#### Python
-- Interpreter Prototype
-
-#### Scheme 48
-- Functional Language Interpreter
-
-#### Java
+## Java
 - Pokémon GO Usage Analyzer
+
+## Python
+- Interpreter Prototype
+- Replicated Concurrency Control and Recovery (Snapshot Isolation)
+
+## CUDA
+- GPU-based Radix Sort
+
+## Scheme 48
+- Functional Language Interpreter
