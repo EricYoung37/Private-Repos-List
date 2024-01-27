@@ -17,5 +17,8 @@
 ## CUDA
 - GPU-based Radix Sort
 
+## OpenMP
+- Travelling Salesman (< 12 cities)
+
 ## Scheme 48
 - Functional Language Interpreter
