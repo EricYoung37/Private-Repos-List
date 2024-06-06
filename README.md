@@ -1,6 +1,9 @@
 
 # Private Repositories
 
+## Scala/Spark
+- NYC Parking Analysis
+
 ## C++
 - Simple HDD IO Scheduler
 - MMU Prototype
